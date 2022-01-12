@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab5a157eefbd8644c91bf22eb76e1349
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _additionalLevelMapTexture: {instanceID: 0}
+  - _blackPointBlock: {fileID: 11400000, guid: 614d4fd05d457d24ebf268c4664771ea, type: 2}
+  - _squareBlock: {fileID: 11400000, guid: a4a858ec3023abd4eb65c153fbc9a51d, type: 2}
+  - _starBlock: {fileID: 11400000, guid: 61e5beb1d36d6d54f96dd9432a6a0457, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

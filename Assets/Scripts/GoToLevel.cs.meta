@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 461c27188043785428876ff10684350b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _levelPreviewSprite: {instanceID: 0}
+  - _levelCloseSprite: {fileID: 21300000, guid: a9111b5a0fc828a45bd8dc41cb49f409, type: 3}
+  - _levelImage: {instanceID: 0}
+  executionOrder: 400
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

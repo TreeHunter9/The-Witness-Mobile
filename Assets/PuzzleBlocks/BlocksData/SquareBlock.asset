@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d4b2ff87f668bf4f8983cf67592c543, type: 3}
+  m_Name: SquareBlock
+  m_EditorClassIdentifier: 
+  blockGameObject: {fileID: 2239963665200518490, guid: a66528c00c8c1b5409aa93cf92d439c7, type: 3}
+  transform: {fileID: 1467649808003977184, guid: a66528c00c8c1b5409aa93cf92d439c7, type: 3}

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 04918d95499471747978412656965749
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _levelMapTexture: {instanceID: 0}
+  - _backgroundMaterial: {fileID: 2100000, guid: 298f7993aa5d5d54aad0ab69ad8c9057, type: 2}
+  - _pathMaterial: {fileID: 2100000, guid: 11becf35194b18e49b1e9878c903d4f2, type: 2}
+  - _pathBlock: {fileID: 11400000, guid: 1a50cb5ce3e92164ba8e7157a8f5742d, type: 2}
+  - _pathBlockWithoutCorner: {fileID: 11400000, guid: 60af218baa863c243be967bac3c9ad4f, type: 2}
+  - _backgroundBlock: {fileID: 11400000, guid: 1b7d7276bbeca034c86164afaa7dacb6, type: 2}
+  - _startBlock: {fileID: 11400000, guid: ab49169b822f2424da676d1c907dbd4f, type: 2}
+  - _endBlock: {fileID: 11400000, guid: 95fc0d8033c2a3c418ba9b22ba821838, type: 2}
+  - _deadEndBlock: {fileID: 11400000, guid: c61c1c341ec71d646a4cdc0b62cbcdcf, type: 2}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
