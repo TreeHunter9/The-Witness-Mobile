@@ -1,4 +1,4 @@
-# The Witness Mobile
+# The Witness Mobile (First Game for Mobile Devices - 15.01.2022)
 
 This is [The Witness](https://github.com/TreeHunter9/The-Witness), but adapted for mobile devices.
   
